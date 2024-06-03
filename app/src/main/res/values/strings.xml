@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Familia</string>
+    <string name="welcome_screen_title">Lets get started!</string>
+    <string name="welcome_screen_text">Keeping you connected with your\nloved ones.</string>
+    <string name="welcome_screen_continue_btn">CONTINUE</string>
+    <string name="login_screen_title">Login</string>
+    <string name="login_screen_text">Please sign in to continue.</string>
+    <string name="login_screen_signup">"Don't have an account?"</string>
+    <string name="sign_screen_title">Sign Up</string>
+    <string name="sign_screen_text">Please create account to continue.</string>
+    <string name="sign_screen_login">Already have an account?</string>
+</resources>

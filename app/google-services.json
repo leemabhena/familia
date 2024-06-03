@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347809101585",
+    "project_id": "aitfamilia",
+    "storage_bucket": "aitfamilia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347809101585:android:5adbcb70a9458f0731beb0",
+        "android_client_info": {
+          "package_name": "hu.ait.familia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUB81bcPuk00BH--Tw6xVtxs6BS2Qh80o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
